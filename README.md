@@ -22,4 +22,6 @@ To manage the cost of the project I utilised the waste hardboard, cardboard, and
 
 The robot is built on three layers of hardboard/cardboard which are spaced 65mm (approx., due to bending of the cardboard) apart with cylindrical part of the pen's body.
 
+The layers are a rectangle cutout of size 160X80 mm.
+
 The bottom layer has slits to fit the motors. The mid layer has the microcontroller, breadboard and an imu. And the top layer has the battery and a motor driver module.
