@@ -27,3 +27,8 @@ The layers are a rectangle cutout of size 160X80 mm.
 The bottom layer has slits to fit the motors. The mid layer has the microcontroller, breadboard and an imu. And the top layer has the battery and a motor driver module.
 
 ![](https://github.com/RUFFY-369/Aatam_Santulit_Robot/blob/master/Self_balancing_robot_img.jpg)
+
+#### Lets see the robot in action through a GIF
+![](https://github.com/RUFFY-369/Aatam_Santulit_Robot/blob/master/Self_balancing_robot.gif)
+
+You can also checkout the full video available in the repo.
