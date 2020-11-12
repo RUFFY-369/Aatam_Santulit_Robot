@@ -1,4 +1,4 @@
-# SelfBalancingBot
+# SelfBalancingRobot
 
 A two wheel balancing robot based on Arduino atmega 2560.The dynamics of the bot is similar to an inverted pendulum on which a certain torque is applied along pivot to keep it balanced.
 
