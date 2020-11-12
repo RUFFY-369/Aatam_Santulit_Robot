@@ -31,4 +31,4 @@ The bottom layer has slits to fit the motors. The mid layer has the microcontrol
 #### Lets see the robot in action through a GIF
 ![](https://github.com/RUFFY-369/Aatam_Santulit_Robot/blob/master/Self_balancing_robot.gif)
 
-You can also checkout the full video available in the repo.
+##### You can also checkout the full video available in the repo.
