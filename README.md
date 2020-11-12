@@ -14,7 +14,8 @@ The L298N Motor Driver Module is to manipulate the DC motors.
 
 The connection of the whole circuitry is done using jumper wires.
 
-The circuitry is powered by a Duracell 9v alkaline battery(got it cheap✨)
+The circuitry is powered by a Duracell 9v alkaline battery(got it cheap✨ but wasn't able to operate the robot for a long time which caused some problems with gains tuning)
+(Lipo or Li-ion battery wasn't available)
 
 ### Fabrication
 To manage the cost of the project I utilised the waste hardboard, cardboard, and some pens✨
