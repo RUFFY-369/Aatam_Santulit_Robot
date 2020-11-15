@@ -3,7 +3,7 @@
 A two wheel self-balancing robot based on Arduino atmega 2560.The dynamics of the bot are similar to an inverted pendulum on which a certain torque is applied along pivot to keep it balanced.
 
 ### Programming
-A PID regulator is used to stabilise this system and minimise the steady state error.
+A PID regulator is used to stabilize this system and minimize the steady state error.
 
 ### Electronics
 A 6 DOF MPU6050 IMU is used to keep track of the various motion related parameters of the bot like orientation, acceleration, etc.. It is mounted on a 400 point breadboard.
